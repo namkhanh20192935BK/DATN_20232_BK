@@ -1,0 +1,4 @@
+- Hôm nay sẽ làm về việc chạy thử mô hình trên 8 layers
+Các công việc:
+1. Chia dữ liệu 8 lớp về train và validation -> Done
+2. Chạy thử trên 8 lớp thành 8 file Notebook trên Kaggle
